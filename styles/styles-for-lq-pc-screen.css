@@ -1,0 +1,504 @@
+@media screen and (min-width: 993px) and (max-width: 1366px) {
+
+    /*HEADER WRAPPER*/
+    .header-wrapper {
+        height: 500px;
+
+    }
+
+    body::-webkit-scrollbar-track {
+        -webkit-box-shadow: inset 0 0 6px rgb(10, 8, 80);
+        background-color: #081c38;
+
+    }
+
+    body::-webkit-scrollbar {
+        width: 10px;
+        /*background-color: #ffffff;*/
+
+    }
+
+    body::-webkit-scrollbar-thumb {
+        background-color: #0056ff;
+        border: 2px solid #0b3993;
+        box-shadow: 0px 0px 40px 40px rgb(23, 15, 199);
+        border-radius: 10px;
+
+    }
+
+    body {
+        font-size: 1%;
+    }
+
+    header {
+        /*padding-bottom: 100px;*/
+        /*padding: 0 0 0 0;*/
+        height: 65px;
+        /*left: 70px;*/
+    }
+
+    /*.logo {*/
+    /*    padding: 100px 0 0 0;*/
+    /*    width: 25px;*/
+    /*}*/
+    .container {
+        width: 80%;
+    }
+
+    .nav {
+        float: right;
+        /*padding: 0 50px 0 50px;*/
+    }
+
+    .nav li {
+        margin-left: 35px;
+        display: inline-block;
+        padding-top: 15px;
+        /*padding-bottom: 0px;*/
+    }
+
+    .nav a {
+        font-size: 18px;
+    }
+
+
+    .logo {
+        /*top: 150px;*/
+        /*right: 50px;*/
+        padding: 10px 0 0 0;
+        width: 65px;
+    }
+
+    .languages {
+        padding: 20px 27px 0 0;
+    }
+
+    .header-images {
+        padding-top: 95px;
+    }
+
+    .imgheader {
+        width: 90px;
+        height: 90px;
+        padding: 0 42px 0 0;
+    }
+
+    .header-wrapper h1 {
+        font-size: 65px;
+        margin: 14px 0 0 0;
+        text-shadow: 4px 4px 8px black, 0 0 4px white;
+    }
+
+    .header-wrapper h4, .earlyReg {
+        font-size: 20px;
+        margin: 15px 0 25px 0;
+    }
+
+    .header-button-block {
+        padding-top: 25px;
+    }
+
+    .header-images img {
+        position: relative;
+        height: 50px;
+        width: 50px;
+        right: 47px;
+        padding-right: 5px;
+    }
+
+
+    .button {
+        position: relative;
+        /*left: 80px;*/
+        bottom: 10px;
+        display: inline-block;
+        padding: 15px 100px 15px 100px;
+        /*padding: 15px 160px;*/
+        opacity: 0.8;
+        text-shadow: 5px 5px 10px black, 0 0 5px white;
+        color: rgb(255, 255, 255);
+        text-decoration: none;
+        font-size: 15px;
+        overflow: hidden;
+        font-family: 'Roboto-Monto', sans-serif;
+        transition: 0.2s;
+
+    }
+
+    /*.blue-button {*/
+    /*    border: 3px solid #0fe0e0;*/
+    /*    border-radius: 42px;*/
+    /*    font-size: 25px;*/
+    /*    padding: 10px 26px 10px 26px;*/
+    /*}*/
+    /*--------*/
+    .challenge-wrapper {
+        height: 650px;
+        /*background-size: cover;*/
+    }
+
+    .challenge-title {
+        padding-top: 10px;
+    }
+
+    .challenge-title h3 {
+        font-size: 30px;
+    }
+
+    .challenge-text {
+        position: relative;
+        font-size: 15px;
+        right: 50px;
+    }
+
+    .challenge-text p {
+        max-width: 30em;
+        margin-bottom: 1.618em;
+    }
+
+
+    .challenge-img {
+    }
+
+    .challenge-img img {
+        position: relative;
+        bottom: 470px;
+        /*left: px;*/
+        width: 300px;
+    }
+
+    /*---------*/
+    .about-wrapper {
+        height: 1900px;
+        background-size: cover;
+    }
+
+    .about-block img {
+        height: 90px;
+    }
+
+    .about-block p {
+        font-size: 17px;
+    }
+
+    .mainpart-wrapper {
+
+    }
+
+    .mainpart-wrapper ul {
+        font-size: 25px;
+    }
+
+    .mainpart-ul {
+        padding: 20px 0 0 40px;
+    }
+
+    /*.mainpart-img {*/
+    /*    padding-right: 50px;*/
+    /*    padding-top: 40px;*/
+    /*}*/
+    .mainpart-wrapper img {
+        left: 100px;
+        bottom: 230px;
+        position: relative;
+        width: 370px;
+    }
+
+    .partners-wrapper {
+        padding: 0 0 0 0;
+    }
+
+    .partners-wrapper h3 {
+        font-size: 28px;
+    }
+
+    .partners-wrapper p, span {
+        font-size: 18px;
+    }
+
+    .partners-line {
+        display: inline-block;
+        position: relative;
+        bottom: 150px;
+        padding: 0 0 0 0;
+
+    }
+
+    .partners-line-2 {
+        position: relative;
+        bottom: 185px;
+        padding: 0 0 0px 0px;
+    }
+
+
+    .partners-line-2 h3 {
+        position: relative;
+        left: 10px;
+        /*top: -165px;*/
+    }
+
+    .partner-img-text {
+
+        height: 100px;
+        width: 250px;
+        /*margin: 1px 0 1px 0;*/
+        padding: 0 0 0 10px;
+    }
+
+    .partner-img-text img {
+        width: 150px;
+    }
+
+    .partner-img-text2 {
+        height: 100px;
+        width: 250px;
+        padding: 0 0 0 10px;
+    }
+
+    .partner-img-text2 img {
+        width: 120px;
+        top: 62%;
+        left: 55px;
+    }
+
+    .partner-img-text5 {
+        height: 100px;
+        width: 250px;
+        padding: 0 0 0 10px;
+    }
+
+    .partner-img-text5 img {
+        width: 190px;
+        top: 78%;
+        left: 40px;
+    }
+
+    .partner-img-text4 {
+        height: 100px;
+        width: 250px;
+        padding: 0 0 0 10px;
+    }
+
+    .partner-img-text4 img {
+        width: 215px;
+        top: 70%;
+        left: 25px;
+    }
+
+    .partner-img-text3 {
+        height: 100px;
+        width: 250px;
+        padding: 0 0 0 10px;
+    }
+
+    .partner-img-text3 img {
+        width: 220px;
+        top: 70%;
+        left: 10px;
+    }
+
+    /*.partner-img-text p {*/
+    /*    padding: 30px 0 0 260px;*/
+    /*}*/
+    .partner-img {
+        height: 150px;
+    }
+
+    .partner-img img {
+        width: 140px;
+    }
+
+    .partner-img2 {
+        width: 25%;
+        left: 200px;
+        text-align: center;
+        float: left;
+        height: 150px;
+        position: relative;
+    }
+
+    .partner-img2 img {
+        width: 135px;
+    }
+
+
+    .partner-img3 {
+        width: 25%;
+        left: 200px;
+        text-align: center;
+        float: left;
+        height: 150px;
+        position: relative;
+    }
+
+    .partner-img3 img {
+        width: 110px;
+    }
+
+    .partner-img4 {
+        width: 25%;
+        left: 20px;
+        /*text-align: center;*/
+        float: left;
+        height: 150px;
+        position: relative;
+    }
+
+    .partner-img4 img {
+        width: 185px;
+        left: 45%;
+    }
+
+
+    .partners-wrapper p {
+        font-size: 16px;
+    }
+
+    .partners-wrapper span {
+        position: relative;
+        bottom: 110px;
+        font-size: 23px;
+    }
+
+    .partners-wrapper a {
+        font-size: 23px;
+    }
+
+    /*Программа*/
+    .title-wrapper {
+        padding-top: 2%;
+    }
+
+    .title-wrapper h3 {
+        font-size: 30px;
+    }
+
+    .program-wrapper {
+        height: 700px;
+    }
+
+    .program-block {
+        width: 33.33%;
+    }
+
+    .program-block-title {
+        font-size: 22px;
+    }
+
+    .program-block-content {
+        font-size: 15px;
+        line-height: 38px;
+    }
+
+    .bottom-span {
+        padding-top: 55px;
+    }
+
+    .bottom-span a {
+        font-size: 32px;
+        text-shadow: 4px 4px 8px black, 0 0 4px white;
+    }
+
+    .bottom-span span {
+        font-size: 20px;
+        text-shadow: 4px 4px 8px black, 0 0 4px white;
+    }
+
+    .referees-wrapper {
+        height: 600px;
+    }
+
+    .referees-title-wrapper {
+        font-size: 30px;
+        padding-top: 120px;
+    }
+
+    .referees-blue-button {
+        font-size: 20px;
+        padding: 12px 30px 12px 30px;
+    }
+
+    .referees-button-block {
+        padding-top: 70px;
+    }
+
+    .hands img {
+        width: 400px;
+        top: -50px;
+    }
+
+    .support-wrapper {
+        height: 700px;
+    }
+
+    .support-title-wrapper {
+        font-size: 25px;
+        padding-top: 30px;
+    }
+
+    .textsup {
+        font-size: 15px;
+    }
+
+    .question p, .answer li {
+        margin: 0;
+        line-height: 33px;
+    }
+
+    /*-----*/
+    /*CONTACTS*/
+    .contacts-wrapper {
+        width: 100%;
+        height: 850px;
+    }
+
+    .contacts-text {
+        padding-top: 22px;
+    }
+
+    .contacts-text a {
+        font-size: 20px;
+    }
+
+    .contacts-text p {
+        font-size: 20px;
+    }
+
+    .contacts-map iframe {
+        padding-top: 40px;
+        height: 360px;
+        width: 360px;
+    }
+
+    .sponsors-wrapper {
+        top: 30em;
+    }
+
+    .sponsors-wrapper img {
+        width: 140px;
+        height: 140px;
+        margin-right: 42px;
+    }
+
+    .sponsor-images {
+        padding-top: 42px;
+    }
+
+    /*--------*/
+    /*FOOTER*/
+    .footerbar {
+        height: 90px;
+    }
+
+    .footerbar-block {
+        height: 90px;
+    }
+
+    .footerbar-block p {
+        font-size: 14px;
+    }
+
+    .footerbar-block li {
+        font-size: 13px;
+    }
+}

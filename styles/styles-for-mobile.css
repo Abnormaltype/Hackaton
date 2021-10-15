@@ -1,0 +1,382 @@
+﻿@media screen and (min-width: 300px) and (max-width: 750px) {
+
+    /*HEADER WRAPPER*/
+    .header-wrapper {
+        height: 350px;
+    }
+
+    header {
+        height: 40px;
+    }
+
+
+    body {
+        font-size: 1%;
+    }
+
+    .logo {
+        padding: 5px 0;
+        width: 15px;
+    }
+
+    .container {
+        width: 80%;
+    }
+
+    .nav li {
+        margin-left: 7px;
+        padding-top: 10px;
+    }
+
+    .nav a {
+        font-size: 13px;
+    }
+
+    .languages {
+        padding: 13px 13px 0 0;
+    }
+
+    .languages img {
+        width: 17px;
+    }
+
+    .logo {
+        padding: 3px 0;
+        width: 75px;
+    }
+
+    .header-images {
+        padding-top: 50px;
+    }
+
+    .imgheader {
+        width: 30px;
+        height: 30px;
+        padding: 0 15px 0 0;
+    }
+
+    .header-wrapper h1 {
+        font-size: 30px;
+        margin: 10px 0 0 0;
+        text-shadow: 3px 3px 5px black, 0 0 2px white;
+    }
+
+    .header-wrapper h4, .earlyReg {
+        font-size: 14px;
+        margin: 10px 0 25px 0;
+    }
+
+    .header-button-block {
+        padding-top: 5px;
+    }
+
+    .blue-button {
+        border: 2px solid #0fe0e0;
+        border-radius: 17px;
+        font-size: 15px;
+        padding: 5px 16px 5px 16px;
+    }
+
+    /*--------*/
+    /*БРОСАЙ ВЫЗОВ*/
+    .challenge-wrapper {
+        height: 400px;
+
+    }
+
+    .challenge-title {
+        padding-top: 5px;
+    }
+
+    .challenge-title h3 {
+        font-size: 21px;
+    }
+
+    .challenge-text {
+        font-size: 9px;
+    }
+
+    .challenge-img {
+        padding-top: 90px;
+        padding-left: 20px;
+    }
+
+
+    .challenge-img img {
+        width: 200px;
+    }
+
+    /*---------*/
+    .about-wrapper {
+        height: 1240px;
+    }
+
+    .partners-wrapper {
+        padding: 0 0 0 0;
+    }
+
+    .partners-wrapper h3 {
+        font-size: 18px;
+    }
+
+    .partners-wrapper p, span {
+        font-size: 18px;
+    }
+
+    body .partners-line {
+        padding: 0 0 30px 0;
+        /*background-color: white;*/
+    }
+
+    .partners-line-2 {
+        padding: 0 0 10px 0;
+    /*background-color: white;*/
+    }
+
+    body.partner-img-text {
+        height: 100px;
+        width: 250px;
+        padding: 0 0 0 10px;
+    }
+
+    body.partner-img-text img {
+        width: 150px;
+    }
+
+    body .partner-img-text2 {
+        height: 100px;
+        width: 250px;
+        padding: 0 0 0 10px;
+    }
+
+    body .partner-img-text2 img {
+        width: 120px;
+        top: 62%;
+        left: 55px;
+    }
+
+    body .partner-img-text5 {
+        height: 100px;
+        width: 250px;
+        padding: 0 0 0 10px;
+    }
+
+    body .partner-img-text5 img {
+        width: 190px;
+        top: 78%;
+        left: 40px;
+    }
+
+    body .partner-img-text4 {
+        height: 100px;
+        width: 250px;
+        padding: 0 0 0 10px;
+    }
+
+    body .partner-img-text4 img {
+        width: 215px;
+        top: 70%;
+        left: 25px;
+    }
+
+    body .partner-img-text3 {
+        height: 100px;
+        width: 250px;
+        padding: 0 0 0 10px;
+    }
+
+    body .partner-img-text3 img {
+        width: 220px;
+        top: 70%;
+        left: 10px;
+    }
+
+
+    /*.partner-img-text p {*/
+    /*    padding: 30px 0 0 155px;*/
+    /*}*/
+    .partner-img {
+        height: 150px;
+    }
+
+    .partner-img img {
+        width: 100px;
+    }
+
+    .partners-wrapper p {
+        font-size: 11px;
+    }
+
+    .partners-wrapper span {
+        font-size: 15px;
+    }
+
+    .partners-wrapper a {
+        font-size: 15px;
+    }
+
+    .about-block img {
+        height: 65px;
+    }
+
+    .about-block p {
+        font-size: 9px;
+    }
+
+    .mainpart-wrapper ul {
+        font-size: 13px;
+    }
+
+    .mainpart-ul {
+        padding: 25px 0 0 20px;
+    }
+
+    .mainpart-img {
+        padding-right: 70px;
+        padding-top: 40px;
+    }
+
+    .mainpart-wrapper img {
+        width: 200px;
+    }
+
+    /*Программа*/
+    .title-wrapper {
+        padding-top: 1%;
+    }
+
+    .title-wrapper h3 {
+        font-size: 20px;
+    }
+
+    .program-wrapper {
+        height: 370px;
+    }
+
+    .program-block {
+        width: 33.33%;
+    }
+
+    .program-block-title {
+        font-size: 12px;
+    }
+
+    .program-block-content {
+        font-size: 10px;
+        line-height: 20px;
+    }
+
+    .bottom-span {
+        padding-top: 25px;
+    }
+
+    .bottom-span a {
+        font-size: 18px;
+        text-shadow: 3px 3px 6px black, 0 0 3px white;
+    }
+
+    .bottom-span span {
+        font-size: 18px;
+        text-shadow: 3px 3px 6px black, 0 0 3px white;
+    }
+
+    .referees-wrapper {
+        height: 300px;
+    }
+
+    .referees-title-wrapper {
+        font-size: 20px;
+        padding-top: 40px;
+    }
+
+    .referees-blue-button {
+        font-size: 15px;
+        padding: 12px 30px 12px 30px;
+    }
+
+    .referees-button-block {
+        padding-top: 70px;
+    }
+
+    /*.hands img {*/
+    /*    width: 250px;*/
+    /*    top: -32px;*/
+    /*}*/
+
+    .support-wrapper {
+        height: 470px;
+    }
+
+    .support-title-wrapper {
+        font-size: 18px;
+        padding-top: 30px;
+    }
+
+    .textsup {
+        font-size: 9px;
+    }
+
+    .question p, .answer li {
+        line-height: 22px;
+    }
+
+    /*-----*/
+    /*CONTACTS*/
+    .contacts-wrapper {
+        width: 100%;
+        height: 500px;
+    }
+
+    .contacts-text {
+        padding-top: 15px;
+    }
+
+    .contacts-text a {
+        font-size: 12px;
+    }
+
+    .contacts-text p {
+        font-size: 12px;
+    }
+
+    .contacts-map iframe {
+        padding-top: 30px;
+        height: 250px;
+        width: 250px;
+    }
+
+    .sponsors-wrapper {
+        top: 28em;
+    }
+
+    .sponsors-wrapper img {
+        width: 80px;
+        height: 80px;
+        margin-right: 35px;
+    }
+
+    .sponsor-images {
+        padding-top: 35px;
+    }
+
+    /*--------*/
+    /*FOOTER*/
+    .footerbar {
+        height: 100px;
+    }
+
+    .footerbar-block p {
+        font-size: 12px;
+    }
+
+    .right {
+        padding-top: 15px;
+    }
+
+    .footerbar-block li {
+        font-size: 8px;
+    }
+}
+
+/*-----------------------------------------------*/
+
