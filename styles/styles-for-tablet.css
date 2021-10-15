@@ -367,6 +367,16 @@
         font-size: 15px;
     }
 
+    .program-block-content p {
+        text-shadow: 5px 5px 10px black, 0 0 5px white;
+        padding: 10px 0 0 0px;
+        font-size: 15px;
+        position: relative;
+        right: 20px;
+        text-align: center;
+        font-family: 'Oswald', sans-serif;
+    }
+
     .program-block-content {
         font-size: 12px;
         line-height: 25px;
