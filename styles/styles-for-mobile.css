@@ -123,7 +123,7 @@
         font-size: 18px;
     }
 
-    body .partners-line {
+    .partners-line {
         padding: 0 0 30px 0;
         /*background-color: white;*/
     }
@@ -133,60 +133,60 @@
     /*background-color: white;*/
     }
 
-    body.partner-img-text {
+    .partner-img-text {
         height: 100px;
         width: 250px;
         padding: 0 0 0 10px;
     }
 
-    body.partner-img-text img {
-        width: 150px;
+    .partner-img-text img {
+        width: 100px;
     }
 
-    body .partner-img-text2 {
+    .partner-img-text2 {
         height: 100px;
         width: 250px;
         padding: 0 0 0 10px;
     }
 
-    body .partner-img-text2 img {
-        width: 120px;
+    .partner-img-text2 img {
+        width: 100px;
         top: 62%;
         left: 55px;
     }
 
-    body .partner-img-text5 {
+    .partner-img-text5 {
         height: 100px;
         width: 250px;
         padding: 0 0 0 10px;
     }
 
-    body .partner-img-text5 img {
-        width: 190px;
+    .partner-img-text5 img {
+        width: 100px;
         top: 78%;
         left: 40px;
     }
 
-    body .partner-img-text4 {
+    .partner-img-text4 {
         height: 100px;
         width: 250px;
         padding: 0 0 0 10px;
     }
 
-    body .partner-img-text4 img {
-        width: 215px;
+    .partner-img-text4 img {
+        width: 100px;
         top: 70%;
         left: 25px;
     }
 
-    body .partner-img-text3 {
+    .partner-img-text3 {
         height: 100px;
         width: 250px;
         padding: 0 0 0 10px;
     }
 
-    body .partner-img-text3 img {
-        width: 220px;
+    .partner-img-text3 img {
+        width: 100px;
         top: 70%;
         left: 10px;
     }
