@@ -50,6 +50,10 @@
         /*padding: 0 50px 0 50px;*/
     }
 
+    .logogif {
+        display: none;
+    }
+
     .nav li {
         margin-left: 35px;
         display: inline-block;
@@ -160,6 +164,7 @@
     .challenge-img {
     }
 
+
     .challenge-img img {
         position: relative;
         bottom: 470px;
@@ -178,7 +183,7 @@
     }
 
     .about-block p {
-        font-size: 17px;
+        font-size: 21px;
     }
 
     .mainpart-wrapper {
@@ -385,6 +390,16 @@
         font-size: 22px;
     }
 
+    .program-block-content p {
+        text-shadow: 5px 5px 10px black, 0 0 5px white;
+        padding: 60px 0 0 0px;
+        font-size: 23px;
+        position: relative;
+        right: 20px;
+        text-align: center;
+        font-family: 'Oswald', sans-serif;
+    }
+
     .program-block-content {
         font-size: 15px;
         line-height: 38px;
@@ -454,6 +469,7 @@
 
     .contacts-text {
         padding-top: 22px;
+        padding-left: 0px;
     }
 
     .contacts-text a {
