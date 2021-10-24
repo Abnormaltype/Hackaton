@@ -169,13 +169,13 @@
         padding-left: 0px;
         top: 65%;
         left: 50%;
-        margin: 0px 0 0 100px;
+        margin: 100px 0 0 100px;
 
     }
 
 
     .challenge-img img {
-        width: 300px;
+        width: 500px;
     }
 
     /*---------*/

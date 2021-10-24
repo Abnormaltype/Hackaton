@@ -35,6 +35,8 @@
 
     .logogif {
         display: none;
+        -webkit-display: none;
+        -ms-display: none;
     }
 
     .banner {
