@@ -1,5 +1,4 @@
-﻿@media screen and (min-width: 300px) and (max-width: 424px) {
-
+@media screen and (min-width: 540px) and (max-width: 750px) {
     /*HEADER WRAPPER*/
     body::-webkit-scrollbar-track {
         -webkit-box-shadow: inset 0 0 6px rgb(10, 8, 80);
@@ -108,7 +107,7 @@
     }
 
     .nav a {
-        font-size: 7px;
+        font-size: 10px;
     }
 
     .languages {
@@ -232,7 +231,7 @@
 
     .about-wrapper {
         height: 3150px;
-        padding-bottom: 40%;
+        padding-bottom: 15%;
     }
 
     .about-block {
@@ -438,9 +437,11 @@
         padding: 0px 0 0 0px;
         font-size: 18px;
         position: absolute;
-        right: 0px;
+        margin: 0px 0px 0 0px;
+        right: 0;
         text-align: center;
         font-family: 'Oswald', sans-serif;
+
     }
 
     .partners-wrapper span {
@@ -476,7 +477,7 @@
         /*    */
         /*top: 350%;*/
         left: 50%;
-        margin: 170px 43px 0px -91px;
+        margin: 170px 100px 0px -91px;
     }
 
     .mainpart-wrapper img {
