@@ -413,11 +413,11 @@ header {
 }
 
 .partner-img-text3 img {
-    width: 250px;
+    width: 310px;
     float: left;
     position: absolute;
     top: 50%;
-    left: 50px;
+    left: 8%;
     bottom: 50%;
     margin: auto;
 }
@@ -432,11 +432,11 @@ header {
 }
 
 .partner-img-text4 img {
-    width: 250px;
+    width: 270px;
     float: left;
     position: absolute;
     top: 50%;
-    left: 50px;
+    left: 8%;
     bottom: 50%;
     margin: auto;
 }
